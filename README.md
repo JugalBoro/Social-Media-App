@@ -1,2 +1,2 @@
-# cross-blog-platform
-This is cross-blog-platform.
+# social-media-app
+This is social-media-platform.
