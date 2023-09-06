@@ -1,6 +1,6 @@
 # Social Media App (MERN Stack)
 
-![App Screenshot](screenshot.png)
+
 
 A full-featured Social Media app built using the MERN stack.
 
